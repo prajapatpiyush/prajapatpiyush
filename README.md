@@ -89,6 +89,9 @@ My projects go beyond basic CRUD. I enjoy working on applications where a single
   <a href="https://github.com/prajapatpiyush/EcoTrack-Final">
     <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="EcoTrack Repository" />
   </a>
+    <a href="https://youtu.be/Rd7jBCKdxK8">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" />
+  </a>
 </p>
 
 **Tech Stack:** `Spring Boot` `Spring Security` `JWT` `Spring Data JPA` `MySQL` `React`
