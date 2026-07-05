@@ -1,393 +1,371 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=%24+whoami;%3E+Piyush+Prajapati;%3E+Java+Developer+%7C+Backend+Engineering;%3E+Turning+business+workflows+into+backend+systems." alt="Typing introduction" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=29&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=950&lines=Piyush+Prajapati;Turning+Workflows+into+Working+Systems.;Building+Beyond+CRUD.;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Backend+Development"
+  alt="Piyush Prajapati animated introduction"
+/>
 
-<br/>
+<h3 align="center">Java Developer | Software Developer</h3>
 
-### Java Developer · Software Development
+<p align="center">
+  <b>Building secure backend systems, REST APIs, and full-stack applications with Java & Spring Boot.</b>
+</p>
 
-<sub>I build backend applications where APIs, security, business rules, and data have to work together.</sub>
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-prajapati-22p26/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:piyushprajapati123piyush@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/Piyush-2022/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/piyush-prajapati-22p26/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:piyushprajapati123piyush@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Piyush-2022/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=prajapatpiyush&label=PROFILE+VIEWS&style=flat-square" alt="Profile views" />
-
-</div>
-
----
-
-## `$ whoami`
-
-```java
-public final class PiyushPrajapati {
-
-    private final String role = "Java Developer";
-    private final String focus = "Software Developer";
-
-    private final String[] stack = {
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "Spring Security",
-        "Spring Data JPA",
-        "MySQL"
-    };
-
-    private final String mindset =
-        "Understand the workflow. Model the data. Secure the API. Debug reality.";
-
-    public String currentMission() {
-        return "Build backend systems beyond tutorial CRUD";
-    }
-}
-```
-
-I'm a **Computer Science graduate from Indore, India**, focused on building backend and full-stack applications with **Java and Spring Boot**.
-
-What interests me most is not creating another endpoint that performs:
-
-```text
-POST → INSERT → 200 OK
-```
-
-I prefer working on operations where one request changes the state of an entire workflow:
-
-```text
-REQUEST
-   │
-   ▼
-AUTHENTICATION
-   │
-   ▼
-VALIDATION
-   │
-   ▼
-BUSINESS RULES
-   │
-   ▼
-STATE CHANGES
-   │
-   ▼
-PERSISTENCE
-   │
-   ▼
-STRUCTURED RESPONSE
-```
-
-**That is the part of backend development I enjoy — understanding what one operation changes across the system.**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prajapatpiyush&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-## `$ ./projects --featured`
+## 👨‍💻 About Me
 
-### `01` ♻️ EcoTrack
+I'm a **Computer Science graduate and Java Developer** from India, focused on building backend and full-stack applications using **Java, Spring Boot, REST APIs, Spring Security, and MySQL**.
 
-> **A waste submission is not just a database insert.**
+My projects go beyond basic CRUD. I enjoy working on applications where a single operation can involve **authentication, validation, business rules, multiple database changes, and a complete application workflow**.
 
-A multi-role smart waste management platform connecting **Citizens, Companies, Admins, and recycling operations**.
+* 🔭 Currently building and improving **Java & Spring Boot applications**
+* 🌱 Strengthening **Data Structures & Algorithms, backend design, and testing**
+* 🔐 Interested in **REST API development, authentication, authorization, and business logic**
+* 🧠 Built systems involving **wallets, transactions, inventory, order workflows, analytics, and multi-role access**
+* 💼 Open to **Java Developer, Java Backend Developer, and Software Developer opportunities**
+* 📍 Based in **India**
 
-`Spring Boot` `Spring Security` `JWT` `JPA` `MySQL` `React`
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,react,js,html,css,git,github,postman,idea,vscode,eclipse&theme=dark" alt="Technology Stack" />
+</p>
+
+### Backend Development
+
+`Java` · `Spring Boot` · `Spring MVC` · `Spring Security` · `Spring Data JPA` · `Hibernate`
+
+`REST APIs` · `JWT Authentication` · `JDBC` · `JSP` · `Servlets`
+
+### Database & Persistence
+
+`MySQL` · `H2 Database` · `SQL` · `JPA` · `Hibernate` · `JDBC`
+
+### Frontend Development
+
+`React` · `JavaScript ES6+` · `HTML5` · `CSS3`
+
+### Architecture & Backend Concepts
+
+`Layered Architecture` · `MVC` · `DAO Pattern` · `DTO Pattern`
+
+`Role-Based Authorization` · `Bean Validation` · `Global Exception Handling`
+
+`Pagination` · `Sorting` · `API Documentation`
+
+### Tools
+
+`Git` · `GitHub` · `Postman` · `Swagger / OpenAPI` · `Maven`
+
+`IntelliJ IDEA` · `Spring Tool Suite` · `VS Code` · `Eclipse`
+
+---
+
+# 🚀 Featured Projects
+
+## ♻️ EcoTrack — Smart Waste Management System
+
+> A multi-role waste management platform designed around real operational workflows instead of isolated CRUD operations.
+
+<p>
+  <a href="https://github.com/prajapatpiyush/EcoTrack-Final">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="EcoTrack Repository" />
+  </a>
+</p>
+
+**Tech Stack:** `Spring Boot` `Spring Security` `JWT` `Spring Data JPA` `MySQL` `React`
+
+### Key Features
+
+* 👥 Multi-role architecture for **Citizen, Company, and Admin**
+* 🔐 Stateless authentication using **Spring Security and JWT**
+* 💰 Dynamic **waste reward and eco-point calculation engine**
+* 👛 Wallet balance and financial transaction tracking
+* 📦 Waste inventory management and quantity tracking
+* ♻️ Waste batch creation and recycler assignment workflow
+* 🚚 Citizen and company pickup scheduling
+* 📊 Admin analytics and platform management
+* 📢 Environmental campaigns and sustainability blogs
+* 📅 Events with participant registration and capacity tracking
+* 🌙 Responsive React interface with dark mode support
+
+### System Workflow
 
 ```text
-WASTE SUBMITTED
+Waste Submission
        │
-       ├──► Calculate monetary reward
-       ├──► Calculate eco-points
-       ├──► Update wallet
-       ├──► Create CREDIT transaction
-       └──► Update waste inventory
-                          │
-                          ▼
-                    CREATE BATCH
-                          │
-                          ▼
-                    ASSIGN RECYCLER
+       ├── Calculate Monetary Reward
+       ├── Calculate Eco Points
+       ├── Update User Wallet
+       ├── Create Transaction
+       └── Update Waste Inventory
+                      │
+                      ▼
+               Create Waste Batch
+                      │
+                      ▼
+               Assign Recycler
 ```
 
-**System snapshot**
+### Project Scale
 
-```text
-03 USER ROLES
-17 REST CONTROLLERS
-14 SERVICE COMPONENTS
-26 REACT PAGES
-27 APPLICATION ROUTES
-```
+`3 User Roles` · `17 REST Controllers` · `14 Service Components`
 
-**Built around**
+`26 React Pages` · `27 Application Routes`
 
-* Reward and eco-point calculation
-* Wallet and transaction tracking
-* Waste inventory management
-* Batch creation and recycler assignment
-* Pickup lifecycle workflows
-* JWT authentication and role-based authorization
-* Company bulk pickup workflows
-* Events, campaigns, and participant management
-
-<a href="https://github.com/prajapatpiyush/EcoTrack-Final">
-  <img src="https://img.shields.io/badge/EXPLORE_ECOTRACK-238636?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**What I learned:** Designing business workflows where one request affects multiple parts of an application's state while maintaining security and data consistency.
 
 ---
 
-### `02` 🛒 E-Commerce Platform
+## 🛒 Full-Stack E-Commerce Admin Platform
 
-> **The application worked locally. Deployment exposed a bad assumption.**
+> A secured e-commerce management system with REST APIs, role-based access, product management, order workflows, and analytics.
 
-A full-stack e-commerce management system built with a secured Spring Boot backend.
+<p>
+  <a href="https://github.com/prajapatpiyush/ecommerce-fullstack">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="E-Commerce Repository" />
+  </a>
+  <a href="https://ecommerce-fullstack-dz04.onrender.com">
+    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
 
-`Java 17` `Spring Boot` `Spring Security` `JWT` `JPA` `MySQL` `Swagger`
+**Tech Stack:** `Java 17` `Spring Boot` `Spring Security` `JWT` `JPA` `MySQL` `Swagger`
 
-The original image workflow used `MultipartFile` and local storage.
+### Key Features
 
-```text
-MultipartFile
-      │
-      ▼
-LOCAL /uploads
-      │
-      ▼
-WORKS LOCALLY ✓
-      │
-      ▼
-DEPLOY TO CLOUD
-      │
-      ▼
-INSTANCE RESTARTS
-      │
-      ▼
-IMAGES DISAPPEAR ✗
-```
+* 🔐 JWT authentication and role-based authorization
+* 👤 Admin and User access control
+* 📦 Product and category management
+* 🛍️ Order processing and order item relationships
+* 📊 Revenue and order analytics
+* 📄 Pagination and dynamic sorting
+* ✅ Request validation using Bean Validation
+* 🚨 Centralized exception handling using `@ControllerAdvice`
+* 📘 REST API documentation with Swagger / OpenAPI
+* 🖼️ Hybrid image management supporting uploaded files and external URLs
 
-The upload API was not the real problem.
+### A Deployment Problem I Solved
 
-**The storage assumption was.**
+The original application stored uploaded images in a local `/uploads` directory.
 
-I redesigned the image workflow:
+It worked locally.
 
-```text
-                 IMAGE
-                   │
-          ┌────────┴────────┐
-          │                 │
-          ▼                 ▼
-   UPLOADED FILE      EXTERNAL URL
-          │                 │
-          └────────┬────────┘
-                   │
-                   ▼
-            SMART RENDERING
-```
-
-Then long external image URLs exposed another issue:
+After cloud deployment, instance restarts caused uploaded images to disappear because the application relied on temporary local storage.
 
 ```text
-VARCHAR(255)
-     │
-     ▼
-DATA TRUNCATION
-     │
-     ▼
-TEXT
+Local Development
+MultipartFile → /uploads → Image Available ✓
+
+Cloud Deployment
+MultipartFile → Temporary Storage → Restart → Image Lost ✗
 ```
 
-**Also implemented**
+I redesigned the image workflow to support both:
 
-`JWT Authentication` · `Role Authorization` · `DTO Pattern`
+```text
+             IMAGE
+               │
+      ┌────────┴────────┐
+      ▼                 ▼
+Uploaded File      External URL
+      │                 │
+      └────────┬────────┘
+               ▼
+        Dynamic Rendering
+```
 
-`Bean Validation` · `Global Exception Handling`
+Long external image URLs later exposed a database column limitation, so the image field was changed from `VARCHAR` to `TEXT`.
 
-`Pagination` · `Sorting` · `Swagger` · `Order Analytics`
-
-<a href="https://ecommerce-fullstack-dz04.onrender.com">
-  <img src="https://img.shields.io/badge/LIVE_APPLICATION-00C7B7?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-<a href="https://github.com/prajapatpiyush/ecommerce-fullstack">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**What I learned:** Code working on localhost does not prove that its infrastructure assumptions will survive deployment.
 
 ---
 
-### `03` 🎨 PixelCraft Studio
+## 🎨 PixelCraft Studio — Full Stack Java Web Application
 
-> **Before using Spring abstractions, I built the Java web workflow manually.**
+> A database-driven Java MVC application built using JSP, Servlets, JDBC, and MySQL.
 
-A database-driven Java MVC application with an admin system for managing projects, clients, contact submissions, subscribers, and dynamic website content.
+<p>
+  <a href="https://github.com/prajapatpiyush/PixelCraft-Studio-Full-Stack-Java-Web-Application">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="PixelCraft Repository" />
+  </a>
+</p>
 
-`Java` `JSP` `Servlets` `JDBC` `MySQL` `MVC`
+**Tech Stack:** `Java` `JSP` `Servlets` `JDBC` `MySQL` `MVC`
+
+### Key Features
+
+* 🧑‍💼 Admin dashboard for content management
+* 🎨 Project management
+* 👥 Client management
+* 📩 Contact form submission tracking
+* 📧 Newsletter subscriber management
+* 🗄️ MySQL database persistence
+* 🔄 Dynamic JSP content rendering
+* 🏗️ MVC and DAO-based architecture
+
+### Application Flow
 
 ```text
-BROWSER
-   │
-   ▼
-SERVLET
-   │
-   ▼
-DAO
-   │
-   ▼
+Browser Request
+       │
+       ▼
+Servlet Controller
+       │
+       ▼
+DAO Layer
+       │
+       ▼
 JDBC
-   │
-   ▼
-MYSQL
-   │
-   ▼
-MODEL
-   │
-   ▼
-JSP
-   │
-   ▼
-DYNAMIC HTML
+       │
+       ▼
+MySQL
+       │
+       ▼
+Java Model
+       │
+       ▼
+JSP View
+       │
+       ▼
+Dynamic HTML Response
 ```
 
-This project gave me the context to understand **why Spring MVC, repositories, ORM, and framework abstractions exist**.
-
-<a href="https://github.com/prajapatpiyush/PixelCraft-Studio-Full-Stack-Java-Web-Application">
-  <img src="https://img.shields.io/badge/EXPLORE_PIXELCRAFT-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**What I learned:** Building the Java web workflow manually helped me understand why Spring MVC, repositories, dependency injection, and ORM abstractions exist.
 
 ---
 
-## `$ git log --oneline backend-journey`
+## 📈 My Java Backend Journey
 
 ```text
-a91f02c  deployment exposed my assumptions
-81bc742  secured APIs with spring-security + jwt
-76a10de  started designing REST APIs
-61f04ad  moved from JDBC to JPA
-52c39ba  understood MVC through implementation
-31e87af  learned servlet request-response flow
-18b29ce  wrote database operations with DAO + JDBC
-0a721df  started with core-java
+Core Java
+    │
+    ▼
+JDBC + MySQL
+    │
+    ▼
+DAO Pattern
+    │
+    ▼
+JSP + Servlets
+    │
+    ▼
+MVC Architecture
+    │
+    ▼
+Spring Boot
+    │
+    ▼
+Spring Data JPA
+    │
+    ▼
+REST API Development
+    │
+    ▼
+Spring Security + JWT
+    │
+    ▼
+Deployment & Debugging
 ```
 
-```text
-CORE JAVA
-    │
-    ▼
-JDBC + MYSQL
-    │
-    ▼
-DAO + MVC
-    │
-    ▼
-JSP + SERVLETS
-    │
-    ▼
-SPRING BOOT
-    │
-    ▼
-REST APIs + JPA
-    │
-    ▼
-SPRING SECURITY + JWT
-    │
-    ▼
-DEPLOYMENT + DEBUGGING
-```
-
-**I prefer understanding why an abstraction exists before depending completely on it.**
+> **I prefer understanding why an abstraction exists before depending completely on it.**
 
 ---
 
-## `$ cat stack.yml`
+## 🎓 Education
 
-<div align="center">
+**Bachelor of Technology — Computer Science**
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,react,js,html,css,git,github,postman,idea&theme=dark" alt="Technology stack" />
+Swami Vivekanand College of Engineering, Indore
 
-</div>
+`2022 – 2026` · `CGPA: 7.26`
 
-<br/>
+---
 
-```yaml
-backend:
-  language: Java
-  framework: Spring Boot
-  api: REST
-  security: Spring Security + JWT
-  persistence: Spring Data JPA + Hibernate
+## 💼 Experience
 
-database:
-  primary: MySQL
-  also_used:
-    - H2
-    - JDBC
+### Web Developer Intern — Flying Birds Adventure
 
-architecture:
-  - Layered Architecture
-  - MVC
-  - DAO Pattern
-  - DTO Pattern
+`June 2025 – September 2025`
 
-frontend:
-  - React
-  - JavaScript
-  - HTML5
-  - CSS3
-  - JSP
+* Developed and maintained responsive web interfaces using HTML, CSS, and JavaScript
+* Implemented feature enhancements for client projects
+* Collaborated on application updates and database-driven workflows
 
-currently_improving:
-  - Data Structures & Algorithms
-  - Backend Design
-  - Testing
-  - Clean Java
-```
+---
 
-## `$ cat current-status.txt`
+## 🏆 Achievement
 
-```text
-[ BUILDING ] Stronger Java backend fundamentals
-[ SOLVING  ] Data Structures & Algorithms
-[ LEARNING ] Backend design and application testing
-[ SEEKING  ] Java Developer / Java Backend Developer opportunities
-```
+🥉 **3rd Prize — National-Level Web Design Competition**
 
-🥉 **3rd Prize — National-Level Web Design Competition, Tech-o-tsav**
+Secured 3rd Prize at **Tech-o-tsav**, organized by Acropolis Institute, Indore.
 
-💼 **Web Developer Intern — Flying Birds Adventure**
+---
 
-🎓 **B.Tech in Computer Science — 2026**
+## 📜 Certification
 
-📍 **India**
+🎓 **Full Stack Java Development Certification**
+
+Programming World — Completed
+
+---
+
+## 🎯 Currently Focused On
+
+* ☕ Strengthening Core Java and backend fundamentals
+* 🧩 Solving Data Structures & Algorithms problems
+* 🏗️ Improving backend application design
+* 🧪 Learning application testing practices
+* ✨ Writing cleaner and more maintainable Java code
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/prajapatpiyush">
+    <img src="https://img.shields.io/badge/GitHub-prajapatpiyush-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/piyush-prajapati-22p26/">
+    <img src="https://img.shields.io/badge/LinkedIn-Piyush_Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Piyush-2022/">
+    <img src="https://img.shields.io/badge/LeetCode-Piyush--2022-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-## `One request. Multiple state changes. One system to keep consistent.`
+### I don't want my GitHub to just say I know Java.
+
+### **I want my projects to prove it.**
 
 <br/>
 
-### I don't want my GitHub to say I know Java.
-
-### **I want the repositories to prove it.**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/piyush-prajapati-22p26/">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/prajapatpiyush?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<code>BUILD → BREAK → DEBUG → UNDERSTAND → IMPROVE</code>
 
 <br/><br/>
 
-<code>BUILD → BREAK → DEBUG → UNDERSTAND → REBUILD</code>
+<b>Open to Java Developer · Java Backend Developer · Software Developer opportunities</b>
 
 </div>
